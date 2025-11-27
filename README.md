@@ -127,39 +127,6 @@ We answer real business questions, including:
 
 These insights help e-commerce teams make pricing, stocking, and marketing decisions.
 
-🛠️ How to Use This Project
-1️⃣ Clone the repository
-git clone https://github.com/YOUR-USERNAME/zepto-SQL-data-analysis-project.git
-cd zepto-SQL-data-analysis-project
-
-2️⃣ Open the main SQL file
-zepto_SQL_data_analysis.sql
-
-
-This file contains:
-
-Table creation
-
-EDA
-
-Cleaning steps
-
-Business queries
-
-Insight generation
-
-3️⃣ Load the dataset
-
-Use pgAdmin, DBeaver, or PostgreSQL CLI.
-
-Steps:
-
-Create database
-
-Run the SQL script
-
-Import the dataset (UTF-8 recommended)
-
 📜 License
 
 MIT License — You are free to use, modify, and share this project.
